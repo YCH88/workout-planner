@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/workout-planner/static/css/main.a2c9b7bc.css",
-    "main.js": "/workout-planner/static/js/main.e7088a6b.js",
+    "main.js": "/workout-planner/static/js/main.f1b22dbc.js",
     "index.html": "/workout-planner/index.html",
     "main.a2c9b7bc.css.map": "/workout-planner/static/css/main.a2c9b7bc.css.map",
-    "main.e7088a6b.js.map": "/workout-planner/static/js/main.e7088a6b.js.map"
+    "main.f1b22dbc.js.map": "/workout-planner/static/js/main.f1b22dbc.js.map"
   },
   "entrypoints": [
     "static/css/main.a2c9b7bc.css",
-    "static/js/main.e7088a6b.js"
+    "static/js/main.f1b22dbc.js"
   ]
 }
